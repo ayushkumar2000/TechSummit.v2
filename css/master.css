@@ -65,6 +65,9 @@ textarea:focus, input:focus, button:focus {
 
 .section-one .info-container .p-date {
   color: #F1629C;
+  width: 14%;
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 18px;
@@ -73,6 +76,9 @@ textarea:focus, input:focus, button:focus {
 
 .section-one .info-container p {
   color: #FFFFFF;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Montserrat", sans-serif;
   font-size: 90px;
   font-weight: 800;
@@ -87,7 +93,7 @@ textarea:focus, input:focus, button:focus {
 }
 
 .section-one .info-container .button-container {
-  width: 100%;
+  width: 13%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
@@ -109,7 +115,7 @@ textarea:focus, input:focus, button:focus {
 
 .section-two {
   width: 100vw;
-  min-height: 100vh;
+  min-height: 75vh;
   padding-bottom: 50px;
 }
 
@@ -1133,7 +1139,7 @@ textarea:focus, input:focus, button:focus {
     width: 90%;
   }
   .section-one .info-container {
-    width: 100%;
+    width: 33%;
   }
   .section-two .desc-div {
     width: 90%;
