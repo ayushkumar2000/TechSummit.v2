@@ -1,2 +1,2 @@
-# Kayako
-Responsive event template using bootstrap 3 and scroll-reveal!
+# TechSummit
+Responsive Website for TechSummit hosted by Techkriti IIT Kanpur
